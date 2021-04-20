@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #This script will check the new insall server.
-#April 2021 # By Apoti Eri
+#April 2021 # By Apoti Eri..
 
 echo -e "CPU Check\n"
 CPU_N=`nproc`
